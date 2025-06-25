@@ -1,0 +1,1 @@
+this link conects you with my presentation about my two tecniques to study english   https://www.popai.pro/share.html?shareKey=f49402d0e5f4311d3b983020a10ef816f6c965a8ba04e99974b1f1d8dd7a6a8e&utm_source=presentationsharepage&inviteCode=IN_8U08dCSNfJg

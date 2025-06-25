@@ -146,7 +146,10 @@ function ejercicio_15(){
 /*Construir un número de contacto completo: Tengo el prefijo "Teléfono: " y el numero "3101234567". Necesito combinarlos para formar el contacto completo y
 poder imprimirlo en un directorio.*/
 
-
+function ejercicio_16(){
+    let phone = 3101234567
+    
+}
 
 
 
